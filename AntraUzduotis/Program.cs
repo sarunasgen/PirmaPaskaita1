@@ -1,1 +1,2 @@
 ﻿//Sprendimas
+//Sprendimo tesinys
